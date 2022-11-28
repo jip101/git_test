@@ -1,3 +1,4 @@
 Hello, world!
 
-Ho ho ho, now I have a repository
+Now I have a repository
+ho ho ho
